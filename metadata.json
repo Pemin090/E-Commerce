@@ -1,0 +1,6 @@
+{
+  "name": "ApexStore - E-Commerce Platform",
+  "description": "A full-stack e-commerce web application featuring a rich product catalog, shopping cart, checkout, order tracking, and role-based admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
